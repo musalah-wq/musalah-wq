@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Salah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></h1>
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Testing+Engineer;ISTQB-FL%20|%20ISTQB-AT%20%20Certified%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+QA+Engineer;ISTQB-FL%20|%20ISTQB-AT%20%20Certified%20&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -14,7 +14,7 @@
 - 🎓 I hold a degree in Statistics and Computer Science.
 - :sweat_smile: Interested in Software testing/QA
 - 💻 All of my projects are available at [Repositories](https://github.com/muhammadsalah7?tab=repositories)
-- 📫 You can reach me at muhammad.salahh@outlook.com
+- 📫 You can reach me at muhammadd.salahh@outlook.com
 - 📄 Check [My CV](https://drive.google.com/file/d/1uUccQmwhli2xEybahvnW2xLB4LggZz4Q/view?usp=sharing) for more info
 
 Feel free to explore them and provide feedback!
