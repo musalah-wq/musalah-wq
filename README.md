@@ -15,7 +15,7 @@
 - :sweat_smile: Interested in Software testing/QA
 - 💻 All of my projects are available at [Repositories](https://github.com/muhammadsalah7?tab=repositories)
 - 📫 You can reach me at muhammadd.salahh@outlook.com
-- 📄 Check [My CV](https://drive.google.com/file/d/1uUccQmwhli2xEybahvnW2xLB4LggZz4Q/view?usp=sharing) for more info
+- 📄 Check [My CV](https://drive.google.com/file/d/1T7NS6V08YCJ3DA8LOG5f6ECMBbbcbZ0k/view?usp=drive_link) for more info
 
 Feel free to explore them and provide feedback!
 
